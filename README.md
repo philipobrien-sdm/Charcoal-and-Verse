@@ -3,9 +3,9 @@
 
 Charcoal & Verse is an experimental altar for the ephemeral. It is a specialized interface designed to bridge the gap between written poetry, high-contrast visual manifestation, and deep-resonance soundscapes. Using the Gemini 2.5 series of models, the application parses the emotional weight of your words and returns visions and echoes that are intentionally raw, abstract, and monochromatic.
 
-![Aesthetic Preview](https://img.shields.io/badge/Aesthetic-Obsidian%20Monochrome-121212?style=for-the-badge)
-![Tech Stack](https://img.shields.io/badge/Powered%20By-Gemini%202.5-blue?style=for-the-badge)
-![React](https://img.shields.io/badge/React-19-black?style=for-the-badge&logo=react)
+<img width="500" height="250" alt="Screenshot 2025-12-19 084236" src="https://github.com/user-attachments/assets/bbf8c224-4f56-4001-801f-00c245a21900" />
+<img width="500" height="250" alt="Screenshot 2025-12-19 084027" src="https://github.com/user-attachments/assets/1f66b5d1-ffad-45e6-bff9-0716bd69eb87" />
+
 
 ---
 
